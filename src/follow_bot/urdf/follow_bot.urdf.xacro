@@ -151,7 +151,9 @@
 
   <!-- Colour -->
   <gazebo reference="base_link">
-  <material name="blue" />
+  <!-- <material name="blue" /> -->
+    <material>Gazebo/Blue</material>
+  
   </gazebo>
 
 </robot>

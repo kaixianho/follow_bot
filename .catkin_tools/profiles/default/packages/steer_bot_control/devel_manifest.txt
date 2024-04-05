@@ -1,0 +1,5 @@
+steer_bot/steer_bot_control
+/home/kx/follow_ws/devel/.private/steer_bot_control/cmake.lock /home/kx/follow_ws/devel/./cmake.lock
+/home/kx/follow_ws/devel/.private/steer_bot_control/share/steer_bot_control/cmake/steer_bot_controlConfig-version.cmake /home/kx/follow_ws/devel/share/steer_bot_control/cmake/steer_bot_controlConfig-version.cmake
+/home/kx/follow_ws/devel/.private/steer_bot_control/share/steer_bot_control/cmake/steer_bot_controlConfig.cmake /home/kx/follow_ws/devel/share/steer_bot_control/cmake/steer_bot_controlConfig.cmake
+/home/kx/follow_ws/devel/.private/steer_bot_control/lib/pkgconfig/steer_bot_control.pc /home/kx/follow_ws/devel/lib/pkgconfig/steer_bot_control.pc

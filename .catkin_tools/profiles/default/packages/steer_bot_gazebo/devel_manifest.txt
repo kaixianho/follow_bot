@@ -1,0 +1,5 @@
+steer_bot/steer_bot_gazebo
+/home/kx/follow_ws/devel/.private/steer_bot_gazebo/cmake.lock /home/kx/follow_ws/devel/./cmake.lock
+/home/kx/follow_ws/devel/.private/steer_bot_gazebo/share/steer_bot_gazebo/cmake/steer_bot_gazeboConfig-version.cmake /home/kx/follow_ws/devel/share/steer_bot_gazebo/cmake/steer_bot_gazeboConfig-version.cmake
+/home/kx/follow_ws/devel/.private/steer_bot_gazebo/share/steer_bot_gazebo/cmake/steer_bot_gazeboConfig.cmake /home/kx/follow_ws/devel/share/steer_bot_gazebo/cmake/steer_bot_gazeboConfig.cmake
+/home/kx/follow_ws/devel/.private/steer_bot_gazebo/lib/pkgconfig/steer_bot_gazebo.pc /home/kx/follow_ws/devel/lib/pkgconfig/steer_bot_gazebo.pc
